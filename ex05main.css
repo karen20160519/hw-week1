@@ -1,0 +1,88 @@
+body{
+    background: url("orangecur.jpg");
+    background-size: 1000px auto;
+    text-align: center;
+}
+.col{
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    background: #fff;
+    margin: 80px 5px;
+    
+}
+.topRow{
+    background:orangered;
+    height: 150px;
+    width: 100%;
+    color: #fff;
+    font-family: sans-serif; 
+}
+.topRow>.title{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px;
+}
+.topRow>.price{
+    text-align: center;
+}
+.topRow>.price *{
+    display: inline-block; 
+    
+}
+.number{
+    font-size: 3em;
+    
+}
+.btn{
+    border: 2px solid #fff;
+    width: 150px;
+    margin: 0px auto;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 0.8em;
+    padding: 6px 0px;
+    margin-top: 10px;
+}
+.dollar{
+    position: relative;
+    top: -20px;
+    margin-left: 20px;
+}
+i{
+    color: #666;
+}
+.msg{
+    font-size: .5em;
+    font-family:sans-serif;
+    padding:.5em;
+    border-bottom: 1px solid gray;
+    margin:15px 35px 5px 35px;
+    text-align: left
+}
+
+.data{
+    font-size: .5em;
+    font-family:sans-serif;
+    padding:.5em;
+    border-bottom: 1px solid gray;
+    margin:5px 35px 5px 35px;
+    text-align: left
+}
+.user{
+    font-size: .5em;
+    font-family:sans-serif;
+    padding:.5em;
+    border-bottom: 1px solid gray;
+    margin:5px 35px 5px 35px;
+    text-align: left
+}
+.smile{
+    font-size: .5em;
+    font-family:sans-serif;
+    padding:.5em;
+    margin:5px 35px 5px 35px;
+    text-align: left
+}
+
+
