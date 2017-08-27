@@ -1,0 +1,48 @@
+.box{
+    font-weight: 1000;
+    color: #c90008;
+}
+
+td{
+    text-align: center;
+    font-family: 標楷體
+}
+
+.circle{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    font-size:20px;
+    font-family: sans-serif;
+    font-weight: 800;
+    color:#000;
+    text-align:center;
+    background:#ffce00;
+}
+
+.circle2{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    font-size:20px;
+    font-family: sans-serif;
+    font-weight: 800;
+    color:#ffffff;
+    text-align:center;
+    background:#c90008;
+}
+
+.circle3{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    font-size:20px;
+    font-family: sans-serif;
+    font-weight: 800;
+    color:#ffffff;
+    text-align:center;
+}
+
+.inner{
+    background:#fff9ab;
+}
